@@ -3,3 +3,6 @@
 
 ![alt text](https://github.com/fishdda/A-Two-pixel-example-for-Xio-optimization/blob/master/Figure_1.png)
 ![alt text](https://github.com/fishdda/A-Two-pixel-example-for-Xio-optimization/blob/master/Figure_2.png)
+
+## *This link is An official document from Xio to give the detailed instruction of gradient descent optimization*
+https://github.com/fishdda/A-Two-pixel-example-for-Xio-optimization/blob/master/LRMXIO0006.pdf
